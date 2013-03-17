@@ -4,11 +4,17 @@
     "bookmark": [
         {
             "name": "Google",
-            "url": "http://google.co.jp"
+            "url": "http://google.co.jp/"
         },
         {
             "name": "MDN",
             "url": "https://developer.mozilla.org/ja/docs/JavaScript/Reference"
+        }
+    ],
+    "bookmark_with": [
+        {
+            "name": "MDN - Global -",
+            "url": "https://developer.mozilla.org/ja/docs/JavaScript/Reference/Global_Objects/"
         }
     ]
 }

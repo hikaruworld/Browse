@@ -7,4 +7,8 @@
         "caption": "Browse: Bookmarks",
         "command": "browse_bookmark"
     }
+    ,{
+        "caption": "Browse: Bookmarks With...",
+        "command": "browse_bookmark_with"
+    }
 ]
