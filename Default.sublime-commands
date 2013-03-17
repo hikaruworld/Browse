@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Browse: GoTo...",
+        "command": "browse_go_to"
+    }
+    ,{
+        "caption": "Browse: Bookmarks",
+        "command": "browse_bookmark"
+    }
+]
