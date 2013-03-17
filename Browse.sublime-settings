@@ -1,0 +1,4 @@
+{
+    // save before running commands
+    "command": ["/usr/local/bin/w3m", "-dump"]
+}
