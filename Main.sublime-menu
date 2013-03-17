@@ -7,13 +7,8 @@
                 "caption": "Browse",
                 "children":
                 [
-                    {
-                        "caption": "Browse",
-                        "children":
-                        [
-                             { "caption": "GoTo", "command": "browse" }
-                        ]
-                    }
+                     { "caption": "Bookmarks", "command": "browse_bookmark" },
+                     { "caption": "GoTo", "command": "browse_go_to" }
                 ]
             }
         ]

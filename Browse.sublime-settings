@@ -1,4 +1,14 @@
 {
     // save before running commands
-    "command": ["/usr/local/bin/w3m", "-dump"]
+    "command": ["/usr/local/bin/w3m", "-dump"],
+    "bookmark": [
+        {
+            "name": "Google",
+            "url": "http://google.co.jp"
+        },
+        {
+            "name": "MDN",
+            "url": "https://developer.mozilla.org/ja/docs/JavaScript/Reference"
+        }
+    ]
 }
