@@ -15,6 +15,10 @@
         {
             "name": "MDN - Global -",
             "url": "https://developer.mozilla.org/ja/docs/JavaScript/Reference/Global_Objects/"
+        },
+        {
+            "name": "jQuery(JP) ",
+            "url": "http://s3pw.com/jQ-JPN/"
         }
     ]
 }
