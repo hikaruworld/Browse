@@ -1,6 +1,10 @@
 {
-    // save before running commands
-    "command": ["/usr/local/bin/w3m", "-dump"],
+    // convert running commands
+    // convert w3m(http://w3m.sourceforge.net/index.ja.html)
+    // "command": ["/usr/local/bin/w3m", "-dump"],
+    // convert pandoc(http://johnmacfarlane.net/pandoc/) => markdown
+    "command": ["/usr/local/bin/pandoc", "-t", "markdown", "-s", "-r", "html"],
+    // Bookmark site.
     "bookmark": [
         {
             "name": "Google",
@@ -11,6 +15,7 @@
             "url": "https://developer.mozilla.org/ja/docs/JavaScript/Reference"
         }
     ],
+    // Bookmark with parameters.
     "bookmark_with": [
         {
             "name": "MDN - Global -",
